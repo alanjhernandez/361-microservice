@@ -1,1 +1,3 @@
 # 361-microservice
+
+This program will provide the Daily High and Daily Low of a stock ticker symbol. To use this microservice, enter the ticker in the ticker-input.txt file. The ticker can be uppercase or lowercase. The program will write the results in the ticker-output.txt file. To run this program, enter python main.py in a terminal. Before running the program make sure to add a ticker and save the ticker-input.txt file. An example output is: Daily High: $2705.43, Daily Low: $2635.03
